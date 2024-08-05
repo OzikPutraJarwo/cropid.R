@@ -1,3 +1,5 @@
+library(cropid)
+
 avs(
   excel_j = "./tests/data.xlsx",
   excel_k = c("text", "text", "numeric", 

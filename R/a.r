@@ -26,7 +26,7 @@
 
   cli_progress_done()
 
-  vers <-  "0.1.0"
+  vers <-  "v1.0.2"
   library(crayon)
   packageStartupMessage("")
   packageStartupMessage(bold(green("CropID")))

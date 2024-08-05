@@ -1,7 +1,7 @@
 Package: cropid
 Type: Package
 Title: Indonesian Agricultural Research Related Functions and Data
-Version: 1.0.1
+Version: 1.0.2
 Author: Ozik Putra Jarwo
 Maintainer: <jarwoozik08@gmail.com>
 Description: Complete package for Indonesian agricultural research, e.g. ANOVA, post hoc, path analysis, genotype by trait, etc.
