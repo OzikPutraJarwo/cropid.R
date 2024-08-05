@@ -9,7 +9,7 @@
 #' @param anova_u Nama kolom ulangan.
 #' @param posthoc Tipe uji lanjut ("BNT", "BNJ", atau "DMRT").
 #' @return Hasil ANOVA dan Uji Lanjut.
-
+#' @export
 avs <- function(excel_j, excel_k, sheet_n, sheet_k, anova_r, anova_p, anova_u, posthoc) {
 
   if (anova_r == "RAK"){
