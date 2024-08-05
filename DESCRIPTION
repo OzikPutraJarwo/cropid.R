@@ -1,0 +1,10 @@
+Package: CropID
+Type: Package
+Title: Indonesian Agricultural Research Related Functions and Data
+Version: 0.1.0
+Author: Ozik Putra Jarwo
+Maintainer: <jarwoozik08@gmail.com>
+Description: Complete package for Indonesian agricultural research, e.g. ANOVA, post hoc, path analysis, genotype by trait, etc.
+License: MIT
+Imports: 
+RoxygenNote: 7.3.1
