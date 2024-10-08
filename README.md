@@ -87,6 +87,11 @@ install.packages("https://github.com/OzikPutraJarwo/cropid/archive/refs/heads/ma
 
 URL ini juga dapat diganti dengan path file yang telah didownload lokal.
 
+## Kontributor
+<a href="https://github.com/OzikPutraJarwo/cropid.R/graphs/contributors" target="_blank">
+  <img src="https://contrib.rocks/image?repo=OzikPutraJarwo/cropid.R" />
+</a>
+
 ## Atribusi
 
 Hak Cipta CropID oleh Ozik Putra Jarwo. Ucapan terima kasih diberikan kepada pengembang R packages berikut yang telah membantu dan menjadi dependensi CropID:
