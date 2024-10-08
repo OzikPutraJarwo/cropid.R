@@ -89,7 +89,7 @@ URL ini juga dapat diganti dengan path file yang telah didownload lokal.
 
 ## Kontributor
 <a href="https://github.com/OzikPutraJarwo/cropid.R/graphs/contributors" target="_blank">
-  <img src="https://contrib.rocks/image?repo=OzikPutraJarwo/cropid.R" />
+  <img src="https://contrib.rocks/image?repo=OzikPutraJarwo/cropid.R"/>
 </a>
 
 ## Atribusi
